@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "MainWithCommandArgs": {
+      "commandName": "Project",
+      "commandLineArgs": "\"3\""
+    }
+  }
+}
