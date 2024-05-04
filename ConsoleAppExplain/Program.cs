@@ -10,6 +10,17 @@
             Console.WriteLine("Hello, World!");
             Console.Write("Hello, ");
             Console.Write("World!");
+            Console.WriteLine(24.5);
+
+            string name = "Garik";
+            int age = 30;
+            double height = 1.8;
+            Console.WriteLine($"Имя: {name}  Возраст: {age}  Рост: {height}m");
+
+            Console.WriteLine($"Name: {name}  Age: {age}  Height: {height}m");
+
+            Console.WriteLine("Name: {0}  Age: {2}  Height: {1}m", name, height, age);
+
             //Console.Write("Enter your name: ");
             //string name = Console.ReadLine();
             //Console.WriteLine("Hello, " + name + "!");
