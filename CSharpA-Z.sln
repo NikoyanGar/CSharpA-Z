@@ -21,33 +21,43 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ValueTypes", "ValueTypes\Va
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ObjectClass", "ObjectClass\ObjectClass.csproj", "{48058BE4-1FA5-4B7E-8A63-CA02970C00D8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleAppExplainInteraction", "ConsoleAppExplainInteraction\ConsoleAppExplainInteraction.csproj", "{BFA438A8-9896-4B73-AEB2-A83EA9162DC4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleAppExplainInteraction", "ConsoleAppExplainInteraction\ConsoleAppExplainInteraction.csproj", "{BFA438A8-9896-4B73-AEB2-A83EA9162DC4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleAppInteractionValidation", "ConsoleAppInteractionValidation\ConsoleAppInteractionValidation.csproj", "{4D568310-DDA2-4AAF-9DCF-1376015B45EA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleAppInteractionValidation", "ConsoleAppInteractionValidation\ConsoleAppInteractionValidation.csproj", "{4D568310-DDA2-4AAF-9DCF-1376015B45EA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasicDataTypeAliases", "DataTypes\BasicDataTypeAliases\BasicDataTypeAliases.csproj", "{8ABDB11F-9974-4B1B-B22F-41F1F3CB3FAB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BasicDataTypeAliases", "DataTypes\BasicDataTypeAliases\BasicDataTypeAliases.csproj", "{8ABDB11F-9974-4B1B-B22F-41F1F3CB3FAB}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DataTypeConversions", "DataTypeConversions", "{22A90129-0990-4B08-B8AA-5578C0F19A99}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataTypeStringToIntegralConversions", "DataTypeConversions\DataTypeStringToIntegralConversions\DataTypeStringToIntegralConversions.csproj", "{1C1F7A53-75A9-484D-A869-AB3B11160922}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataTypeStringToIntegralConversions", "DataTypeConversions\DataTypeStringToIntegralConversions\DataTypeStringToIntegralConversions.csproj", "{1C1F7A53-75A9-484D-A869-AB3B11160922}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArithmeticOperations", "DataTypes\ArithmeticOperations\ArithmeticOperations.csproj", "{A64A54B1-7F52-420E-B23D-59DD72B7391A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArithmeticOperations", "DataTypes\ArithmeticOperations\ArithmeticOperations.csproj", "{A64A54B1-7F52-420E-B23D-59DD72B7391A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArithmeticOperationsIncrement", "DataTypes\ArithmeticOperationsIncrement\ArithmeticOperationsIncrement.csproj", "{2260695D-AC54-497E-8661-64929E546213}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArithmeticOperationsIncrement", "DataTypes\ArithmeticOperationsIncrement\ArithmeticOperationsIncrement.csproj", "{2260695D-AC54-497E-8661-64929E546213}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArithmeticOperationsOperatorPrecedence", "DataTypes\ArithmeticOperationsOperatorPrecedence\ArithmeticOperationsOperatorPrecedence.csproj", "{FB1ECFDB-551A-4134-83F6-539EA4AC3CF5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArithmeticOperationsOperatorPrecedence", "DataTypes\ArithmeticOperationsOperatorPrecedence\ArithmeticOperationsOperatorPrecedence.csproj", "{FB1ECFDB-551A-4134-83F6-539EA4AC3CF5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BooleanLogicalOperators", "DataTypes\BooleanLogicalOperators\BooleanLogicalOperators.csproj", "{2B8977A9-0B51-4977-871F-6AFAE6539AF3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BooleanLogicalOperators", "DataTypes\BooleanLogicalOperators\BooleanLogicalOperators.csproj", "{2B8977A9-0B51-4977-871F-6AFAE6539AF3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BitwiseOperator", "DataTypes\BitwiseOperator\BitwiseOperator.csproj", "{F22F2E32-112F-4146-893C-52C6A0C9908E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BitwiseOperator", "DataTypes\BitwiseOperator\BitwiseOperator.csproj", "{F22F2E32-112F-4146-893C-52C6A0C9908E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkingWithFlags", "WorkingWithFlags\WorkingWithFlags.csproj", "{D72F0613-2022-46F8-8CF3-F0668A9764FA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WorkingWithFlags", "WorkingWithFlags\WorkingWithFlags.csproj", "{D72F0613-2022-46F8-8CF3-F0668A9764FA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Parse", "DataTypeConversions\Parse\Parse.csproj", "{D6A57A2F-C4B2-4D67-B56A-C103ABF9E28C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Parse", "DataTypeConversions\Parse\Parse.csproj", "{D6A57A2F-C4B2-4D67-B56A-C103ABF9E28C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoreOnParse", "DataTypeConversions\MoreOnParse\MoreOnParse.csproj", "{34FBBDF9-CADC-490D-A2C3-395224B8FA5E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MoreOnParse", "DataTypeConversions\MoreOnParse\MoreOnParse.csproj", "{34FBBDF9-CADC-490D-A2C3-395224B8FA5E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoreOnNumberStyles", "DataTypeConversions\MoreOnNumberStyles\MoreOnNumberStyles.csproj", "{EE388BA6-18EE-4D1A-A4F8-F75675CF4BD7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MoreOnNumberStyles", "DataTypeConversions\MoreOnNumberStyles\MoreOnNumberStyles.csproj", "{EE388BA6-18EE-4D1A-A4F8-F75675CF4BD7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathClass", "DataTypes\MathClass\MathClass.csproj", "{183B44AE-F01C-4607-B195-D47130022414}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumbersLogicalOperators", "DataTypes\NumbersLogicalOperators\NumbersLogicalOperators.csproj", "{D2FDCD37-CA5E-4558-B723-4DD8905860EF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assignment", "DataTypes\Assignment\Assignment.csproj", "{11324084-1121-4F5A-A7C8-71A4233900EB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataComparisonEquality", "DataTypes\DataComparison\DataComparisonEquality.csproj", "{98CAC6ED-A09E-4834-9FD6-A9D6A1F1E1E0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataComparisionOperators", "DataTypes\DataComparisionOperators\DataComparisionOperators.csproj", "{08697DC9-9B9B-40D2-B2AD-B5DB9F003037}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -139,6 +149,26 @@ Global
 		{EE388BA6-18EE-4D1A-A4F8-F75675CF4BD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EE388BA6-18EE-4D1A-A4F8-F75675CF4BD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EE388BA6-18EE-4D1A-A4F8-F75675CF4BD7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{183B44AE-F01C-4607-B195-D47130022414}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{183B44AE-F01C-4607-B195-D47130022414}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{183B44AE-F01C-4607-B195-D47130022414}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{183B44AE-F01C-4607-B195-D47130022414}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2FDCD37-CA5E-4558-B723-4DD8905860EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2FDCD37-CA5E-4558-B723-4DD8905860EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2FDCD37-CA5E-4558-B723-4DD8905860EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2FDCD37-CA5E-4558-B723-4DD8905860EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11324084-1121-4F5A-A7C8-71A4233900EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11324084-1121-4F5A-A7C8-71A4233900EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11324084-1121-4F5A-A7C8-71A4233900EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11324084-1121-4F5A-A7C8-71A4233900EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{98CAC6ED-A09E-4834-9FD6-A9D6A1F1E1E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98CAC6ED-A09E-4834-9FD6-A9D6A1F1E1E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98CAC6ED-A09E-4834-9FD6-A9D6A1F1E1E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98CAC6ED-A09E-4834-9FD6-A9D6A1F1E1E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{08697DC9-9B9B-40D2-B2AD-B5DB9F003037}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08697DC9-9B9B-40D2-B2AD-B5DB9F003037}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08697DC9-9B9B-40D2-B2AD-B5DB9F003037}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08697DC9-9B9B-40D2-B2AD-B5DB9F003037}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -158,6 +188,11 @@ Global
 		{D6A57A2F-C4B2-4D67-B56A-C103ABF9E28C} = {22A90129-0990-4B08-B8AA-5578C0F19A99}
 		{34FBBDF9-CADC-490D-A2C3-395224B8FA5E} = {22A90129-0990-4B08-B8AA-5578C0F19A99}
 		{EE388BA6-18EE-4D1A-A4F8-F75675CF4BD7} = {22A90129-0990-4B08-B8AA-5578C0F19A99}
+		{183B44AE-F01C-4607-B195-D47130022414} = {9C236CFF-981B-4B20-A336-2B0B09869516}
+		{D2FDCD37-CA5E-4558-B723-4DD8905860EF} = {9C236CFF-981B-4B20-A336-2B0B09869516}
+		{11324084-1121-4F5A-A7C8-71A4233900EB} = {9C236CFF-981B-4B20-A336-2B0B09869516}
+		{98CAC6ED-A09E-4834-9FD6-A9D6A1F1E1E0} = {9C236CFF-981B-4B20-A336-2B0B09869516}
+		{08697DC9-9B9B-40D2-B2AD-B5DB9F003037} = {9C236CFF-981B-4B20-A336-2B0B09869516}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {7C730EFF-7960-4F2C-A096-085067AE339F}
