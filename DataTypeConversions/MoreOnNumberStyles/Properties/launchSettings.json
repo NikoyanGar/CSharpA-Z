@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "MoreOnNumberStyles": {
+      "commandName": "Project",
+      "commandLineArgs": "3\r\n4"
+    }
+  }
+}
