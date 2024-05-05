@@ -25,85 +25,91 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MoreOnParse", "DataTypeConv
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MoreOnNumberStyles", "DataTypeConversions\MoreOnNumberStyles\MoreOnNumberStyles.csproj", "{EE388BA6-18EE-4D1A-A4F8-F75675CF4BD7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumbersLogicalOperators", "DataTypes\NumbersLogicalOperators\NumbersLogicalOperators.csproj", "{D2FDCD37-CA5E-4558-B723-4DD8905860EF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NumbersLogicalOperators", "DataTypes\NumbersLogicalOperators\NumbersLogicalOperators.csproj", "{D2FDCD37-CA5E-4558-B723-4DD8905860EF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataComparisonEquality", "DataTypes\DataComparison\DataComparisonEquality.csproj", "{98CAC6ED-A09E-4834-9FD6-A9D6A1F1E1E0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataComparisonEquality", "DataTypes\DataComparison\DataComparisonEquality.csproj", "{98CAC6ED-A09E-4834-9FD6-A9D6A1F1E1E0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataComparisionOperators", "DataTypes\DataComparisionOperators\DataComparisionOperators.csproj", "{08697DC9-9B9B-40D2-B2AD-B5DB9F003037}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataComparisionOperators", "DataTypes\DataComparisionOperators\DataComparisionOperators.csproj", "{08697DC9-9B9B-40D2-B2AD-B5DB9F003037}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Lesson_Main", "Lesson_Main", "{D81AAB52-F512-43C1-A56F-54174F925CF0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "001_MainMethod", "Lesson_Main\001_MainMethod\001_MainMethod.csproj", "{7AF2E4BF-783E-49DF-A00E-CD4EA36AAD84}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "001_MainMethod", "Lesson_Main\001_MainMethod\001_MainMethod.csproj", "{7AF2E4BF-783E-49DF-A00E-CD4EA36AAD84}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "002_MainMethod", "Lesson_Main\002_MainMethod\002_MainMethod.csproj", "{C03B4255-C253-45BD-8DD9-D0C6E283E388}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "002_MainMethod", "Lesson_Main\002_MainMethod\002_MainMethod.csproj", "{C03B4255-C253-45BD-8DD9-D0C6E283E388}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Lesson_Console", "Lesson_Console", "{23289A0A-D98E-4EE3-BB8A-C1F3D6C2B443}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "003_MainMethod", "Lesson_Main\003_MainMethod\003_MainMethod.csproj", "{B772E6FD-7EFC-4DFE-8EBA-525C97C7DDD1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "003_MainMethod", "Lesson_Main\003_MainMethod\003_MainMethod.csproj", "{B772E6FD-7EFC-4DFE-8EBA-525C97C7DDD1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "001_Console", "Lesson_Console\001_Console\001_Console.csproj", "{2752440A-61CC-465A-BF78-CAD2B1248609}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "001_Console", "Lesson_Console\001_Console\001_Console.csproj", "{2752440A-61CC-465A-BF78-CAD2B1248609}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "002_Console", "Lesson_Console\002_Console\002_Console.csproj", "{3D5A3D88-E50D-4610-8E20-6817B3F63E8C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "002_Console", "Lesson_Console\002_Console\002_Console.csproj", "{3D5A3D88-E50D-4610-8E20-6817B3F63E8C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "003_Console", "Lesson_Console\003_Console\003_Console.csproj", "{7D6591D3-D27F-4BFD-8D03-075516D47C07}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "003_Console", "Lesson_Console\003_Console\003_Console.csproj", "{7D6591D3-D27F-4BFD-8D03-075516D47C07}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Lesson_Basic_Data_Types", "Lesson_Basic_Data_Types", "{686CF1F2-209F-424C-9F34-BED66AD58721}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "001_Basic_Data_Types", "Lesson_Basic_Data_Types\001_Basic_Data_Types\001_Basic_Data_Types.csproj", "{0BE23DAC-03BA-4C81-8CC8-30EBE1FAA7E5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "001_Basic_Data_Types", "Lesson_Basic_Data_Types\001_Basic_Data_Types\001_Basic_Data_Types.csproj", "{0BE23DAC-03BA-4C81-8CC8-30EBE1FAA7E5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "002_Basic_Data_Types", "Lesson_Basic_Data_Types\002_Basic_Data_Types\002_Basic_Data_Types.csproj", "{EB82E67B-179C-4ECF-AD19-8147DB21344D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "002_Basic_Data_Types", "Lesson_Basic_Data_Types\002_Basic_Data_Types\002_Basic_Data_Types.csproj", "{EB82E67B-179C-4ECF-AD19-8147DB21344D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "003_Basic_Data_Types", "Lesson_Basic_Data_Types\003_Basic_Data_Types\003_Basic_Data_Types.csproj", "{B8C61BF1-E91C-4ACE-9E96-09402841AB17}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "003_Basic_Data_Types", "Lesson_Basic_Data_Types\003_Basic_Data_Types\003_Basic_Data_Types.csproj", "{B8C61BF1-E91C-4ACE-9E96-09402841AB17}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "004_Basic_Data_Types", "Lesson_Basic_Data_Types\004_Basic_Data_Types\004_Basic_Data_Types.csproj", "{F2E63557-3627-487F-B0C8-945E3DB116C5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "004_Basic_Data_Types", "Lesson_Basic_Data_Types\004_Basic_Data_Types\004_Basic_Data_Types.csproj", "{F2E63557-3627-487F-B0C8-945E3DB116C5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "005_Basic_Data_Types", "Lesson_Basic_Data_Types\005_Basic_Data_Types\005_Basic_Data_Types.csproj", "{2153A24D-E824-4D9D-932B-568E24204EC3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "005_Basic_Data_Types", "Lesson_Basic_Data_Types\005_Basic_Data_Types\005_Basic_Data_Types.csproj", "{2153A24D-E824-4D9D-932B-568E24204EC3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "006_Basic_Data_Types", "Lesson_Basic_Data_Types\006_Basic_Data_Types\006_Basic_Data_Types.csproj", "{E0CF7C14-8BB4-4876-956B-EFCA1E2D54DD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "006_Basic_Data_Types", "Lesson_Basic_Data_Types\006_Basic_Data_Types\006_Basic_Data_Types.csproj", "{E0CF7C14-8BB4-4876-956B-EFCA1E2D54DD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "007_Basic_Data_Types", "Lesson_Basic_Data_Types\007_Basic_Data_Types\007_Basic_Data_Types.csproj", "{01C6A1AA-F918-479F-8999-68914EA4BFD4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "007_Basic_Data_Types", "Lesson_Basic_Data_Types\007_Basic_Data_Types\007_Basic_Data_Types.csproj", "{01C6A1AA-F918-479F-8999-68914EA4BFD4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "008_Basic_Data_Types", "008_Basic_Data_Types\008_Basic_Data_Types.csproj", "{E5987502-B300-4583-8215-FEF03FDCC1F0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "008_Basic_Data_Types", "008_Basic_Data_Types\008_Basic_Data_Types.csproj", "{E5987502-B300-4583-8215-FEF03FDCC1F0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "009_Basic_Data_Types", "Lesson_Basic_Data_Types\009_Basic_Data_Types\009_Basic_Data_Types.csproj", "{07766570-2066-46C9-86D9-DB48FCABC72F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "009_Basic_Data_Types", "Lesson_Basic_Data_Types\009_Basic_Data_Types\009_Basic_Data_Types.csproj", "{07766570-2066-46C9-86D9-DB48FCABC72F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "010_Basic_Data_Types", "Lesson_Basic_Data_Types\010_Basic_Data_Types\010_Basic_Data_Types.csproj", "{9B353B29-7D9A-4E3C-87AE-F45391CA3E67}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "010_Basic_Data_Types", "Lesson_Basic_Data_Types\010_Basic_Data_Types\010_Basic_Data_Types.csproj", "{9B353B29-7D9A-4E3C-87AE-F45391CA3E67}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Lesson_Arithmetic_Operations", "Lesson_Arithmetic_Operations", "{85D0B39C-1C2F-4673-A356-6827DAACA2AC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "001_Arithmetic_Operations", "Lesson_Arithmetic_Operations\001_Arithmetic_Operations\001_Arithmetic_Operations.csproj", "{2309D2E6-F734-4BD0-8152-C162038FEEC3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "001_Arithmetic_Operations", "Lesson_Arithmetic_Operations\001_Arithmetic_Operations\001_Arithmetic_Operations.csproj", "{2309D2E6-F734-4BD0-8152-C162038FEEC3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "002_Arithmetic_Operations", "Lesson_Arithmetic_Operations\002_Arithmetic_Operations\002_Arithmetic_Operations.csproj", "{6F0EFF86-0CD8-4E2E-8B07-A409BE2A3D58}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "002_Arithmetic_Operations", "Lesson_Arithmetic_Operations\002_Arithmetic_Operations\002_Arithmetic_Operations.csproj", "{6F0EFF86-0CD8-4E2E-8B07-A409BE2A3D58}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "003_Arithmetic_Operations", "Lesson_Arithmetic_Operations\003_Arithmetic_Operations\003_Arithmetic_Operations.csproj", "{D749EC19-8529-4900-84BA-BA273F415DAB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "003_Arithmetic_Operations", "Lesson_Arithmetic_Operations\003_Arithmetic_Operations\003_Arithmetic_Operations.csproj", "{D749EC19-8529-4900-84BA-BA273F415DAB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "004_Arithmetic_Operations", "Lesson_Arithmetic_Operations\004_Arithmetic_Operations\004_Arithmetic_Operations.csproj", "{2A7B3908-F5A3-4638-8ACE-F1BF24CFDDA4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "004_Arithmetic_Operations", "Lesson_Arithmetic_Operations\004_Arithmetic_Operations\004_Arithmetic_Operations.csproj", "{2A7B3908-F5A3-4638-8ACE-F1BF24CFDDA4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "005_Arithmetic_Operations", "Lesson_Arithmetic_Operations\005_Arithmetic_Operations\005_Arithmetic_Operations.csproj", "{9E2DB061-7B18-404A-BA75-CA65A4BE314E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "005_Arithmetic_Operations", "Lesson_Arithmetic_Operations\005_Arithmetic_Operations\005_Arithmetic_Operations.csproj", "{9E2DB061-7B18-404A-BA75-CA65A4BE314E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "006_Arithmetic_Operations", "Lesson_Arithmetic_Operations\006_Arithmetic_Operations\006_Arithmetic_Operations.csproj", "{93778F21-FAE4-42FE-AC8D-1D2975E67D5F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "006_Arithmetic_Operations", "Lesson_Arithmetic_Operations\006_Arithmetic_Operations\006_Arithmetic_Operations.csproj", "{93778F21-FAE4-42FE-AC8D-1D2975E67D5F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "007_Arithmetic_Operations", "Lesson_Arithmetic_Operations\007_Arithmetic_Operations\007_Arithmetic_Operations.csproj", "{D667C34A-406A-40F3-B39B-F234CB91CD24}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "007_Arithmetic_Operations", "Lesson_Arithmetic_Operations\007_Arithmetic_Operations\007_Arithmetic_Operations.csproj", "{D667C34A-406A-40F3-B39B-F234CB91CD24}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "008_Arithmetic_Operations", "008_Arithmetic_Operations\008_Arithmetic_Operations.csproj", "{129E7D6F-D2A9-4E7A-B03F-378E631813CB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "008_Arithmetic_Operations", "008_Arithmetic_Operations\008_Arithmetic_Operations.csproj", "{129E7D6F-D2A9-4E7A-B03F-378E631813CB}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Lesson_Working_With_String_Data", "Lesson_Working_With_String_Data", "{EBE3CEB1-2DCD-4960-8DDC-1EB3915C2C5D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "001_Working_With_String", "Lesson_Working_With_String_Data\001_Working_With_String\001_Working_With_String.csproj", "{713C3219-82C4-489B-9D0C-3400D02F1AA8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "001_Working_With_String", "Lesson_Working_With_String_Data\001_Working_With_String\001_Working_With_String.csproj", "{713C3219-82C4-489B-9D0C-3400D02F1AA8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "002_Working_With_String", "Lesson_Working_With_String_Data\002_Working_With_String\002_Working_With_String.csproj", "{222D6A99-021E-40FF-AABE-E0653D7B719A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "002_Working_With_String", "Lesson_Working_With_String_Data\002_Working_With_String\002_Working_With_String.csproj", "{222D6A99-021E-40FF-AABE-E0653D7B719A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "003_Working_With_String", "Lesson_Working_With_String_Data\003_Working_With_String\003_Working_With_String.csproj", "{456B8693-1172-4C2C-9547-0F377BEE9E9B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "003_Working_With_String", "Lesson_Working_With_String_Data\003_Working_With_String\003_Working_With_String.csproj", "{456B8693-1172-4C2C-9547-0F377BEE9E9B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "004_Working_With_String", "Lesson_Working_With_String_Data\004_Working_With_String\004_Working_With_String.csproj", "{89128DB2-8A0C-4241-A692-F9AB710DB7D1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "004_Working_With_String", "Lesson_Working_With_String_Data\004_Working_With_String\004_Working_With_String.csproj", "{89128DB2-8A0C-4241-A692-F9AB710DB7D1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "005_Working_With_String", "Lesson_Working_With_String_Data\005_Working_With_String\005_Working_With_String.csproj", "{BFDA7F3F-7675-476A-B3C1-6063AEEE41AF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "005_Working_With_String", "Lesson_Working_With_String_Data\005_Working_With_String\005_Working_With_String.csproj", "{BFDA7F3F-7675-476A-B3C1-6063AEEE41AF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "006_Working_With_String", "Lesson_Working_With_String_Data\006_Working_With_String\006_Working_With_String.csproj", "{5AEEF1C1-E7A4-4E75-8B75-528B81BA7EC4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "006_Working_With_String", "Lesson_Working_With_String_Data\006_Working_With_String\006_Working_With_String.csproj", "{5AEEF1C1-E7A4-4E75-8B75-528B81BA7EC4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "007_Working_With_String", "Lesson_Working_With_String_Data\007_Working_With_String\007_Working_With_String.csproj", "{033D8412-90D6-4571-B6D7-5E8763427E29}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "007_Working_With_String", "Lesson_Working_With_String_Data\007_Working_With_String\007_Working_With_String.csproj", "{033D8412-90D6-4571-B6D7-5E8763427E29}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "008_Working_With_String", "Lesson_Working_With_String_Data\008_Working_With_String\008_Working_With_String.csproj", "{6759A110-62F6-4529-950F-7D20AC87761C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "008_Working_With_String", "Lesson_Working_With_String_Data\008_Working_With_String\008_Working_With_String.csproj", "{6759A110-62F6-4529-950F-7D20AC87761C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "009_Working_With_String", "Lesson_Working_With_String_Data\009_Working_With_String\009_Working_With_String.csproj", "{EFEF5AA7-BEEF-4681-B856-970EBCB31A19}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "010_Working_With_String", "Lesson_Working_With_String_Data\010_Working_With_String\010_Working_With_String.csproj", "{151F59DF-8059-4A06-8595-B8DFACD7701D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "011_Working_With_String", "Lesson_Working_With_String_Data\011_Working_With_String\011_Working_With_String.csproj", "{145ED87D-974D-4610-8A3E-75E85A42430C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -287,6 +293,18 @@ Global
 		{6759A110-62F6-4529-950F-7D20AC87761C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6759A110-62F6-4529-950F-7D20AC87761C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6759A110-62F6-4529-950F-7D20AC87761C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EFEF5AA7-BEEF-4681-B856-970EBCB31A19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFEF5AA7-BEEF-4681-B856-970EBCB31A19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFEF5AA7-BEEF-4681-B856-970EBCB31A19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFEF5AA7-BEEF-4681-B856-970EBCB31A19}.Release|Any CPU.Build.0 = Release|Any CPU
+		{151F59DF-8059-4A06-8595-B8DFACD7701D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{151F59DF-8059-4A06-8595-B8DFACD7701D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{151F59DF-8059-4A06-8595-B8DFACD7701D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{151F59DF-8059-4A06-8595-B8DFACD7701D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{145ED87D-974D-4610-8A3E-75E85A42430C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{145ED87D-974D-4610-8A3E-75E85A42430C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{145ED87D-974D-4610-8A3E-75E85A42430C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{145ED87D-974D-4610-8A3E-75E85A42430C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -336,6 +354,9 @@ Global
 		{5AEEF1C1-E7A4-4E75-8B75-528B81BA7EC4} = {EBE3CEB1-2DCD-4960-8DDC-1EB3915C2C5D}
 		{033D8412-90D6-4571-B6D7-5E8763427E29} = {EBE3CEB1-2DCD-4960-8DDC-1EB3915C2C5D}
 		{6759A110-62F6-4529-950F-7D20AC87761C} = {EBE3CEB1-2DCD-4960-8DDC-1EB3915C2C5D}
+		{EFEF5AA7-BEEF-4681-B856-970EBCB31A19} = {EBE3CEB1-2DCD-4960-8DDC-1EB3915C2C5D}
+		{151F59DF-8059-4A06-8595-B8DFACD7701D} = {EBE3CEB1-2DCD-4960-8DDC-1EB3915C2C5D}
+		{145ED87D-974D-4610-8A3E-75E85A42430C} = {EBE3CEB1-2DCD-4960-8DDC-1EB3915C2C5D}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {7C730EFF-7960-4F2C-A096-085067AE339F}

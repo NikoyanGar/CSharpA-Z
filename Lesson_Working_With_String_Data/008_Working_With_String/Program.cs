@@ -1,5 +1,7 @@
 ﻿namespace _008_Working_With_String
 {
+    //You can see the memory of the object by using Memory window in VS.
+    //Just go to Debug->Windows->Memory and open one of the four available or use the shortcut Ctrl+Alt+M, 1-4.
     internal class Program
     {
         static void Main(string[] args)
