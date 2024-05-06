@@ -23,6 +23,9 @@
             long myLong = 9223372036854775807;
             ulong myULong = 18446744073709551615;
 
+            DateTime currentDate = DateTime.Now;
+            DateTime specificDate = new DateTime(2022, 12, 31, 23, 59, 59);
+
             // Output the values
             Console.WriteLine("Integer: " + myInt);
             Console.WriteLine("Float: " + myFloat);
@@ -37,6 +40,8 @@
             Console.WriteLine("Unsigned Short: " + myUShort);
             Console.WriteLine("Long: " + myLong);
             Console.WriteLine("Unsigned Long: " + myULong);
+            Console.WriteLine("Current Date: " + currentDate);
+            Console.WriteLine("Specific Date: " + specificDate);
         }
     }
 }

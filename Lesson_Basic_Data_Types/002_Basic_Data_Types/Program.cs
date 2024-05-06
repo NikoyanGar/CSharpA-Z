@@ -22,6 +22,14 @@
 
             Console.WriteLine("Range of char: {0} to {1}", char.MinValue, char.MaxValue);
 
+            // Date example
+            DateTime currentDate = DateTime.Now;
+            Console.WriteLine("Current Date: {0}", currentDate.ToShortDateString());
+
+            // DateTime example
+            DateTime currentDateTime = DateTime.Now;
+            Console.WriteLine("Current DateTime: {0}", currentDateTime.ToString());
+
         }
     }
 }
