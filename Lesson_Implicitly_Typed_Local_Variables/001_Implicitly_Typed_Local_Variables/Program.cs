@@ -22,6 +22,10 @@
             //var d = 5.12f;
             var x = 1 / 2;
             //var x = 1 / 2.0;
+            Console.WriteLine(i.GetType());
+            Console.WriteLine(s.GetType());
+            Console.WriteLine(d.GetType());
+            Console.WriteLine(x.GetType());
         }
     }
 }
