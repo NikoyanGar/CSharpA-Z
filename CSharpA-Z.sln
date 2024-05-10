@@ -135,37 +135,55 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "001_Loops_And_Iterations", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "002_Loops_And_Iterations", "Lesson_Loops_And_Iterations\002_Loops_And_Iterations\002_Loops_And_Iterations.csproj", "{E61D9367-DDD1-4C92-B23B-6BDA3008B740}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "003_Loops_And_Iterations", "Lesson_Loops_And_Iterations\003_Loops_And_Iterations\003_Loops_And_Iterations.csproj", "{707862D6-7DAF-4E1E-B822-8EA164EC88B0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "003_Loops_And_Iterations", "Lesson_Loops_And_Iterations\003_Loops_And_Iterations\003_Loops_And_Iterations.csproj", "{707862D6-7DAF-4E1E-B822-8EA164EC88B0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "004_Loops_And_Iterations", "Lesson_Loops_And_Iterations\004_Loops_And_Iterations\004_Loops_And_Iterations.csproj", "{F4EF8EF0-4668-4557-A26B-E2BF8CC02A2E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "004_Loops_And_Iterations", "Lesson_Loops_And_Iterations\004_Loops_And_Iterations\004_Loops_And_Iterations.csproj", "{F4EF8EF0-4668-4557-A26B-E2BF8CC02A2E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "005_Loops_And_Iterations", "Lesson_Loops_And_Iterations\005_Loops_And_Iterations\005_Loops_And_Iterations.csproj", "{D1C5ACA4-E6AF-42B7-B174-24448356D17B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "005_Loops_And_Iterations", "Lesson_Loops_And_Iterations\005_Loops_And_Iterations\005_Loops_And_Iterations.csproj", "{D1C5ACA4-E6AF-42B7-B174-24448356D17B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "006_Loops_And_Iterations", "Lesson_Loops_And_Iterations\006_Loops_And_Iterations\006_Loops_And_Iterations.csproj", "{4C4CB2F2-08F2-4F3D-9CCD-0706A59543F7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "006_Loops_And_Iterations", "Lesson_Loops_And_Iterations\006_Loops_And_Iterations\006_Loops_And_Iterations.csproj", "{4C4CB2F2-08F2-4F3D-9CCD-0706A59543F7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "007_Loops_And_Iterations", "Lesson_Loops_And_Iterations\007_Loops_And_Iterations\007_Loops_And_Iterations.csproj", "{B7C4DFC6-BD7A-43FD-8B13-45DAE56A7BA6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "007_Loops_And_Iterations", "Lesson_Loops_And_Iterations\007_Loops_And_Iterations\007_Loops_And_Iterations.csproj", "{B7C4DFC6-BD7A-43FD-8B13-45DAE56A7BA6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "008_Loops_And_Iterations", "Lesson_Loops_And_Iterations\008_Loops_And_Iterations\008_Loops_And_Iterations.csproj", "{7009DB40-2C2B-4AE8-B7A5-3F8F34148B5C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "008_Loops_And_Iterations", "Lesson_Loops_And_Iterations\008_Loops_And_Iterations\008_Loops_And_Iterations.csproj", "{7009DB40-2C2B-4AE8-B7A5-3F8F34148B5C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "009_Loops_And_Iterations", "Lesson_Loops_And_Iterations\009_Loops_And_Iterations\009_Loops_And_Iterations.csproj", "{4F717063-22F4-4111-ACE4-3968F18D9C45}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "009_Loops_And_Iterations", "Lesson_Loops_And_Iterations\009_Loops_And_Iterations\009_Loops_And_Iterations.csproj", "{4F717063-22F4-4111-ACE4-3968F18D9C45}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "010_Loops_And_Iterations", "Lesson_Loops_And_Iterations\010_Loops_And_Iterations\010_Loops_And_Iterations.csproj", "{13AB3E99-2353-4B25-AEA1-C6057712BB94}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "010_Loops_And_Iterations", "Lesson_Loops_And_Iterations\010_Loops_And_Iterations\010_Loops_And_Iterations.csproj", "{13AB3E99-2353-4B25-AEA1-C6057712BB94}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "011_Loops_And_Iterations", "Lesson_Loops_And_Iterations\011_Loops_And_Iterations\011_Loops_And_Iterations.csproj", "{6F30B392-5443-4AA7-81E9-C711E9521FD1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "011_Loops_And_Iterations", "Lesson_Loops_And_Iterations\011_Loops_And_Iterations\011_Loops_And_Iterations.csproj", "{6F30B392-5443-4AA7-81E9-C711E9521FD1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "012_Loops_And_Iterations", "Lesson_Loops_And_Iterations\012_Loops_And_Iterations\012_Loops_And_Iterations.csproj", "{E71FF8A7-B24E-4102-BC95-C65905C45CBA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "012_Loops_And_Iterations", "Lesson_Loops_And_Iterations\012_Loops_And_Iterations\012_Loops_And_Iterations.csproj", "{E71FF8A7-B24E-4102-BC95-C65905C45CBA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "013_Loops_And_Iterations", "Lesson_Loops_And_Iterations\013_Loops_And_Iterations\013_Loops_And_Iterations.csproj", "{E4D3D156-19ED-4374-95D1-034827F58AA3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "013_Loops_And_Iterations", "Lesson_Loops_And_Iterations\013_Loops_And_Iterations\013_Loops_And_Iterations.csproj", "{E4D3D156-19ED-4374-95D1-034827F58AA3}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Lesson_Decision_Constructs", "Lesson_Decision_Constructs", "{2DCA4D2B-5ECF-47C5-B42B-B8BE05F97021}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "001_Decision_Constructs", "Lesson_Decision_Constructs\001_Decision_Constructs\001_Decision_Constructs.csproj", "{626FFBCB-56F5-4D05-8684-3FD1047CC10D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "001_Decision_Constructs", "Lesson_Decision_Constructs\001_Decision_Constructs\001_Decision_Constructs.csproj", "{626FFBCB-56F5-4D05-8684-3FD1047CC10D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "002_Decision_Constructs", "Lesson_Decision_Constructs\002_Decision_Constructs\002_Decision_Constructs.csproj", "{5A27B031-152B-41D9-A3CF-338ED8BD2F56}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "002_Decision_Constructs", "Lesson_Decision_Constructs\002_Decision_Constructs\002_Decision_Constructs.csproj", "{5A27B031-152B-41D9-A3CF-338ED8BD2F56}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "003_Decision_Constructs", "Lesson_Decision_Constructs\003_Decision_Constructs\003_Decision_Constructs.csproj", "{D040108A-87B8-4FE0-8382-E0F6188DCED0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "003_Decision_Constructs", "Lesson_Decision_Constructs\003_Decision_Constructs\003_Decision_Constructs.csproj", "{D040108A-87B8-4FE0-8382-E0F6188DCED0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "004_Decision_Constructs", "Lesson_Decision_Constructs\004_Decision_Constructs\004_Decision_Constructs.csproj", "{DCC26633-19B0-4EA0-BD0C-CA401E151B67}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "004_Decision_Constructs", "Lesson_Decision_Constructs\004_Decision_Constructs\004_Decision_Constructs.csproj", "{DCC26633-19B0-4EA0-BD0C-CA401E151B67}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "005_Decision_Constructs", "Lesson_Decision_Constructs\005_Decision_Constructs\005_Decision_Constructs.csproj", "{3A8015FA-33B6-47E0-8454-71D8D7743F64}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "006_Decision_Constructs", "Lesson_Decision_Constructs\006_Decision_Constructs\006_Decision_Constructs.csproj", "{10C5F335-D1BA-48E8-9A11-79586931F241}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "007_Decision_Constructs", "Lesson_Decision_Constructs\007_Decision_Constructs\007_Decision_Constructs.csproj", "{532B188D-0E1B-496A-862A-9B36AE6BEEDF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "008_Decision_Constructs", "Lesson_Decision_Constructs\008_Decision_Constructs\008_Decision_Constructs.csproj", "{BED4D483-95B5-45C7-90AD-78E6B7CC8BB4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "009_Decision_Constructs", "Lesson_Decision_Constructs\009_Decision_Constructs\009_Decision_Constructs.csproj", "{EAF1911A-0649-46EE-AFBE-0EA9BDD71191}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "010_Decision_Constructs", "Lesson_Decision_Constructs\010_Decision_Constructs\010_Decision_Constructs.csproj", "{A6A63B21-22FE-4771-A932-4C50C28BCA74}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "011_Decision_Constructs", "Lesson_Decision_Constructs\011_Decision_Constructs\011_Decision_Constructs.csproj", "{D536AD3E-AF37-4CAF-A562-CA69ACD8723D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "012_Decision_Constructs", "Lesson_Decision_Constructs\012_Decision_Constructs\012_Decision_Constructs.csproj", "{46C267FA-EAD1-417B-AA98-E3480DE5E9FC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "013_Decision_Constructs", "Lesson_Decision_Constructs\013_Decision_Constructs\013_Decision_Constructs.csproj", "{E8C7222C-5CA1-47AB-A5BB-4150E8C2F6C2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -461,6 +479,42 @@ Global
 		{DCC26633-19B0-4EA0-BD0C-CA401E151B67}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DCC26633-19B0-4EA0-BD0C-CA401E151B67}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DCC26633-19B0-4EA0-BD0C-CA401E151B67}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A8015FA-33B6-47E0-8454-71D8D7743F64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A8015FA-33B6-47E0-8454-71D8D7743F64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A8015FA-33B6-47E0-8454-71D8D7743F64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A8015FA-33B6-47E0-8454-71D8D7743F64}.Release|Any CPU.Build.0 = Release|Any CPU
+		{10C5F335-D1BA-48E8-9A11-79586931F241}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10C5F335-D1BA-48E8-9A11-79586931F241}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10C5F335-D1BA-48E8-9A11-79586931F241}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10C5F335-D1BA-48E8-9A11-79586931F241}.Release|Any CPU.Build.0 = Release|Any CPU
+		{532B188D-0E1B-496A-862A-9B36AE6BEEDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{532B188D-0E1B-496A-862A-9B36AE6BEEDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{532B188D-0E1B-496A-862A-9B36AE6BEEDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{532B188D-0E1B-496A-862A-9B36AE6BEEDF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BED4D483-95B5-45C7-90AD-78E6B7CC8BB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BED4D483-95B5-45C7-90AD-78E6B7CC8BB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BED4D483-95B5-45C7-90AD-78E6B7CC8BB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BED4D483-95B5-45C7-90AD-78E6B7CC8BB4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EAF1911A-0649-46EE-AFBE-0EA9BDD71191}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAF1911A-0649-46EE-AFBE-0EA9BDD71191}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAF1911A-0649-46EE-AFBE-0EA9BDD71191}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAF1911A-0649-46EE-AFBE-0EA9BDD71191}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A6A63B21-22FE-4771-A932-4C50C28BCA74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6A63B21-22FE-4771-A932-4C50C28BCA74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6A63B21-22FE-4771-A932-4C50C28BCA74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6A63B21-22FE-4771-A932-4C50C28BCA74}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D536AD3E-AF37-4CAF-A562-CA69ACD8723D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D536AD3E-AF37-4CAF-A562-CA69ACD8723D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D536AD3E-AF37-4CAF-A562-CA69ACD8723D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D536AD3E-AF37-4CAF-A562-CA69ACD8723D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46C267FA-EAD1-417B-AA98-E3480DE5E9FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46C267FA-EAD1-417B-AA98-E3480DE5E9FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46C267FA-EAD1-417B-AA98-E3480DE5E9FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46C267FA-EAD1-417B-AA98-E3480DE5E9FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E8C7222C-5CA1-47AB-A5BB-4150E8C2F6C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8C7222C-5CA1-47AB-A5BB-4150E8C2F6C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8C7222C-5CA1-47AB-A5BB-4150E8C2F6C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8C7222C-5CA1-47AB-A5BB-4150E8C2F6C2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -538,6 +592,15 @@ Global
 		{5A27B031-152B-41D9-A3CF-338ED8BD2F56} = {2DCA4D2B-5ECF-47C5-B42B-B8BE05F97021}
 		{D040108A-87B8-4FE0-8382-E0F6188DCED0} = {2DCA4D2B-5ECF-47C5-B42B-B8BE05F97021}
 		{DCC26633-19B0-4EA0-BD0C-CA401E151B67} = {2DCA4D2B-5ECF-47C5-B42B-B8BE05F97021}
+		{3A8015FA-33B6-47E0-8454-71D8D7743F64} = {2DCA4D2B-5ECF-47C5-B42B-B8BE05F97021}
+		{10C5F335-D1BA-48E8-9A11-79586931F241} = {2DCA4D2B-5ECF-47C5-B42B-B8BE05F97021}
+		{532B188D-0E1B-496A-862A-9B36AE6BEEDF} = {2DCA4D2B-5ECF-47C5-B42B-B8BE05F97021}
+		{BED4D483-95B5-45C7-90AD-78E6B7CC8BB4} = {2DCA4D2B-5ECF-47C5-B42B-B8BE05F97021}
+		{EAF1911A-0649-46EE-AFBE-0EA9BDD71191} = {2DCA4D2B-5ECF-47C5-B42B-B8BE05F97021}
+		{A6A63B21-22FE-4771-A932-4C50C28BCA74} = {2DCA4D2B-5ECF-47C5-B42B-B8BE05F97021}
+		{D536AD3E-AF37-4CAF-A562-CA69ACD8723D} = {2DCA4D2B-5ECF-47C5-B42B-B8BE05F97021}
+		{46C267FA-EAD1-417B-AA98-E3480DE5E9FC} = {2DCA4D2B-5ECF-47C5-B42B-B8BE05F97021}
+		{E8C7222C-5CA1-47AB-A5BB-4150E8C2F6C2} = {2DCA4D2B-5ECF-47C5-B42B-B8BE05F97021}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {7C730EFF-7960-4F2C-A096-085067AE339F}

@@ -10,7 +10,7 @@
             {
                 Console.WriteLine("In Armenia you are adult");
             }
-            else
+            if (age <= 18)
             {
                 Console.WriteLine("In Armenia you are minor");
             }

@@ -19,8 +19,18 @@
                 }
                 if (age == 118)
                 {
-                    Console.WriteLine("You can legally drink alcohol in Usa");
+                    Console.WriteLine("You can legally drink alcohol in USA");
                 }
+
+                if (age < 100)
+                {
+                    if (age > 100)
+                    {
+                        Console.WriteLine("never been printed");
+                    }
+
+                }
+                //etc..
             }
         }
     }

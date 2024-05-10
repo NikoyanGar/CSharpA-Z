@@ -11,7 +11,7 @@
                 Console.WriteLine("In Armenia you are adult");
                 if (age > 21)
                 {
-                    Console.WriteLine("You can legally drink alcohol in Usa");
+                    Console.WriteLine("You can legally drink alcohol in USA");
                 }
             }
         }
