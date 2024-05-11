@@ -233,6 +233,32 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "004_Equality_And_Comparison
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "005_Equality_And_Comparison_Operators", "Lesson_Equality_And_Comparison_Operators\005_Equality_And_Comparison_Operators\005_Equality_And_Comparison_Operators.csproj", "{E39D5A9D-EAB9-4916-8FE1-D7959A39D766}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Lesson_Conditional_Operator", "Lesson_Conditional_Operator", "{0D459258-06A2-4034-8B0C-4085B008EA96}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "001_Conditional_Operator", "Lesson_Conditional_Operator\001_Conditional_Operator\001_Conditional_Operator.csproj", "{78C38920-C23E-426E-8015-3CFAEF834AAF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "002_Conditional_Operator", "Lesson_Conditional_Operator\002_Conditional_Operator\002_Conditional_Operator.csproj", "{CE41C528-04E8-4F5A-86CE-CC94D8B9D0CD}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Lesson_Null-coalescing_And_Null-Conditional_Operators", "Lesson_Null-coalescing_And_Null-Conditional_Operators", "{53C3342B-AE86-427E-892F-6EF05404C1CC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "001_Null-coalescing_And_Null-Conditional_Operators", "Lesson_Null-coalescing_And_Null-Conditional_Operators\001_Null-coalescing_And_Null-Conditional_Operators\001_Null-coalescing_And_Null-Conditional_Operators.csproj", "{2BB0A260-1063-4794-9BB9-AA3F7B54C05E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "002_Null-coalescing_And_Null-Conditional_Operators", "Lesson_Null-coalescing_And_Null-Conditional_Operators\002_Null-coalescing_And_Null-Conditional_Operators\002_Null-coalescing_And_Null-Conditional_Operators.csproj", "{0FBB32B8-68AB-4BD4-BB8A-570293DA70F8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "003_Null-coalescing_And_Null-Conditional_Operators", "Lesson_Null-coalescing_And_Null-Conditional_Operators\003_Null-coalescing_And_Null-Conditional_Operators\003_Null-coalescing_And_Null-Conditional_Operators.csproj", "{774CF9D7-9AE1-4261-A6A0-C4E04E96F238}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "004_Null-coalescing_And_Null-Conditional_Operators", "Lesson_Null-coalescing_And_Null-Conditional_Operators\004_Null-coalescing_And_Null-Conditional_Operators\004_Null-coalescing_And_Null-Conditional_Operators.csproj", "{5D152ED9-A928-48F9-B99D-5FF0976FA2CE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "005_Null-coalescing_And_Null-Conditional_Operators", "Lesson_Null-coalescing_And_Null-Conditional_Operators\005_Null-coalescing_And_Null-Conditional_Operators\005_Null-coalescing_And_Null-Conditional_Operators.csproj", "{A46B56E3-1C23-4BD1-8661-66728843B4D2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "006_Null-coalescing_And_Null-Conditional_Operators", "Lesson_Null-coalescing_And_Null-Conditional_Operators\006_Null-coalescing_And_Null-Conditional_Operators\006_Null-coalescing_And_Null-Conditional_Operators.csproj", "{937820C9-3728-44EE-9949-9D87087D02B7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "007_Null-coalescing_And_Null-Conditional_Operators", "Lesson_Null-coalescing_And_Null-Conditional_Operators\007_Null-coalescing_And_Null-Conditional_Operators\007_Null-coalescing_And_Null-Conditional_Operators.csproj", "{4430271D-E254-44A0-8970-60100A5622C3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "008_Null-coalescing_And_Null-Conditional_Operators", "Lesson_Null-coalescing_And_Null-Conditional_Operators\008_Null-coalescing_And_Null-Conditional_Operators\008_Null-coalescing_And_Null-Conditional_Operators.csproj", "{4CC1A18A-9FF6-4F7E-8FA6-A472DDC409EB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "009_Null-coalescing_And_Null-Conditional_Operators", "Lesson_Null-coalescing_And_Null-Conditional_Operators\009_Null-coalescing_And_Null-Conditional_Operators\009_Null-coalescing_And_Null-Conditional_Operators.csproj", "{B720F68A-09EE-44A4-9912-612FB275C735}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -647,6 +673,50 @@ Global
 		{E39D5A9D-EAB9-4916-8FE1-D7959A39D766}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E39D5A9D-EAB9-4916-8FE1-D7959A39D766}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E39D5A9D-EAB9-4916-8FE1-D7959A39D766}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78C38920-C23E-426E-8015-3CFAEF834AAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78C38920-C23E-426E-8015-3CFAEF834AAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78C38920-C23E-426E-8015-3CFAEF834AAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78C38920-C23E-426E-8015-3CFAEF834AAF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE41C528-04E8-4F5A-86CE-CC94D8B9D0CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE41C528-04E8-4F5A-86CE-CC94D8B9D0CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE41C528-04E8-4F5A-86CE-CC94D8B9D0CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE41C528-04E8-4F5A-86CE-CC94D8B9D0CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2BB0A260-1063-4794-9BB9-AA3F7B54C05E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BB0A260-1063-4794-9BB9-AA3F7B54C05E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BB0A260-1063-4794-9BB9-AA3F7B54C05E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BB0A260-1063-4794-9BB9-AA3F7B54C05E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0FBB32B8-68AB-4BD4-BB8A-570293DA70F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FBB32B8-68AB-4BD4-BB8A-570293DA70F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FBB32B8-68AB-4BD4-BB8A-570293DA70F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FBB32B8-68AB-4BD4-BB8A-570293DA70F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{774CF9D7-9AE1-4261-A6A0-C4E04E96F238}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{774CF9D7-9AE1-4261-A6A0-C4E04E96F238}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{774CF9D7-9AE1-4261-A6A0-C4E04E96F238}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{774CF9D7-9AE1-4261-A6A0-C4E04E96F238}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D152ED9-A928-48F9-B99D-5FF0976FA2CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D152ED9-A928-48F9-B99D-5FF0976FA2CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D152ED9-A928-48F9-B99D-5FF0976FA2CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D152ED9-A928-48F9-B99D-5FF0976FA2CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A46B56E3-1C23-4BD1-8661-66728843B4D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A46B56E3-1C23-4BD1-8661-66728843B4D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A46B56E3-1C23-4BD1-8661-66728843B4D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A46B56E3-1C23-4BD1-8661-66728843B4D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{937820C9-3728-44EE-9949-9D87087D02B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{937820C9-3728-44EE-9949-9D87087D02B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{937820C9-3728-44EE-9949-9D87087D02B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{937820C9-3728-44EE-9949-9D87087D02B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4430271D-E254-44A0-8970-60100A5622C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4430271D-E254-44A0-8970-60100A5622C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4430271D-E254-44A0-8970-60100A5622C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4430271D-E254-44A0-8970-60100A5622C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4CC1A18A-9FF6-4F7E-8FA6-A472DDC409EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CC1A18A-9FF6-4F7E-8FA6-A472DDC409EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CC1A18A-9FF6-4F7E-8FA6-A472DDC409EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CC1A18A-9FF6-4F7E-8FA6-A472DDC409EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B720F68A-09EE-44A4-9912-612FB275C735}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B720F68A-09EE-44A4-9912-612FB275C735}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B720F68A-09EE-44A4-9912-612FB275C735}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B720F68A-09EE-44A4-9912-612FB275C735}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -754,6 +824,17 @@ Global
 		{8EA96C40-E6CB-4490-8AAA-EB5CD9AEA1A0} = {258B60FD-7757-4F20-BBB9-B476178B5312}
 		{FB070843-356C-49CC-8216-ED02C319F97D} = {258B60FD-7757-4F20-BBB9-B476178B5312}
 		{E39D5A9D-EAB9-4916-8FE1-D7959A39D766} = {258B60FD-7757-4F20-BBB9-B476178B5312}
+		{78C38920-C23E-426E-8015-3CFAEF834AAF} = {0D459258-06A2-4034-8B0C-4085B008EA96}
+		{CE41C528-04E8-4F5A-86CE-CC94D8B9D0CD} = {0D459258-06A2-4034-8B0C-4085B008EA96}
+		{2BB0A260-1063-4794-9BB9-AA3F7B54C05E} = {53C3342B-AE86-427E-892F-6EF05404C1CC}
+		{0FBB32B8-68AB-4BD4-BB8A-570293DA70F8} = {53C3342B-AE86-427E-892F-6EF05404C1CC}
+		{774CF9D7-9AE1-4261-A6A0-C4E04E96F238} = {53C3342B-AE86-427E-892F-6EF05404C1CC}
+		{5D152ED9-A928-48F9-B99D-5FF0976FA2CE} = {53C3342B-AE86-427E-892F-6EF05404C1CC}
+		{A46B56E3-1C23-4BD1-8661-66728843B4D2} = {53C3342B-AE86-427E-892F-6EF05404C1CC}
+		{937820C9-3728-44EE-9949-9D87087D02B7} = {53C3342B-AE86-427E-892F-6EF05404C1CC}
+		{4430271D-E254-44A0-8970-60100A5622C3} = {53C3342B-AE86-427E-892F-6EF05404C1CC}
+		{4CC1A18A-9FF6-4F7E-8FA6-A472DDC409EB} = {53C3342B-AE86-427E-892F-6EF05404C1CC}
+		{B720F68A-09EE-44A4-9912-612FB275C735} = {53C3342B-AE86-427E-892F-6EF05404C1CC}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {7C730EFF-7960-4F2C-A096-085067AE339F}
