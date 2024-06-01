@@ -205,59 +205,63 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "004_Logical_Operators", "Le
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "005_Logical_Operators", "Lesson_Logical_Operators\005_Logical_Operators\005_Logical_Operators.csproj", "{588968C7-4D5E-48FA-865B-2EA30D7F115C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "006_Logical_Operators", "Lesson_Logical_Operators\006_Logical_Operators\006_Logical_Operators.csproj", "{B50E9907-5266-46FE-A5D3-343BB1E7C97B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "006_Logical_Operators", "Lesson_Logical_Operators\006_Logical_Operators\006_Logical_Operators.csproj", "{B50E9907-5266-46FE-A5D3-343BB1E7C97B}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Lesson_Bitwise_And_Shift_Operators", "Lesson_Bitwise_And_Shift_Operators", "{31C24038-28E9-4FF6-B35C-5CB3F0EFD901}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "001_Bitwise_And_Shift_Operators", "Lesson_Bitwise_And_Shift_Operators\001_Bitwise_And_Shift_Operators\001_Bitwise_And_Shift_Operators.csproj", "{772C22F3-047E-4D5F-9B11-CB8C5A8F59CA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "001_Bitwise_And_Shift_Operators", "Lesson_Bitwise_And_Shift_Operators\001_Bitwise_And_Shift_Operators\001_Bitwise_And_Shift_Operators.csproj", "{772C22F3-047E-4D5F-9B11-CB8C5A8F59CA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "002_Bitwise_And_Shift_Operators", "Lesson_Bitwise_And_Shift_Operators\002_Bitwise_And_Shift_Operators\002_Bitwise_And_Shift_Operators.csproj", "{9527FEE7-5887-4A8C-A6CA-B0483C1E5A1C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "002_Bitwise_And_Shift_Operators", "Lesson_Bitwise_And_Shift_Operators\002_Bitwise_And_Shift_Operators\002_Bitwise_And_Shift_Operators.csproj", "{9527FEE7-5887-4A8C-A6CA-B0483C1E5A1C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "004_Bitwise_And_Shift_Operators", "Lesson_Bitwise_And_Shift_Operators\004_Bitwise_And_Shift_Operators\004_Bitwise_And_Shift_Operators.csproj", "{10425D22-F332-4B21-9C98-E01848C5E18E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "004_Bitwise_And_Shift_Operators", "Lesson_Bitwise_And_Shift_Operators\004_Bitwise_And_Shift_Operators\004_Bitwise_And_Shift_Operators.csproj", "{10425D22-F332-4B21-9C98-E01848C5E18E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "005_Bitwise_And_Shift_Operators", "Lesson_Bitwise_And_Shift_Operators\005_Bitwise_And_Shift_Operators\005_Bitwise_And_Shift_Operators.csproj", "{5228BAD7-908C-4A0F-9BC3-3885CB0B75C8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "005_Bitwise_And_Shift_Operators", "Lesson_Bitwise_And_Shift_Operators\005_Bitwise_And_Shift_Operators\005_Bitwise_And_Shift_Operators.csproj", "{5228BAD7-908C-4A0F-9BC3-3885CB0B75C8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "006_Bitwise_And_Shift_Operators", "Lesson_Bitwise_And_Shift_Operators\006_Bitwise_And_Shift_Operators\006_Bitwise_And_Shift_Operators.csproj", "{4783CB02-D83D-4AC5-9ECD-588834BBBD44}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "006_Bitwise_And_Shift_Operators", "Lesson_Bitwise_And_Shift_Operators\006_Bitwise_And_Shift_Operators\006_Bitwise_And_Shift_Operators.csproj", "{4783CB02-D83D-4AC5-9ECD-588834BBBD44}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "003_Bitwise_And_Shift_Operators", "Lesson_Bitwise_And_Shift_Operators\003_Bitwise_And_Shift_Operators\003_Bitwise_And_Shift_Operators.csproj", "{C7C3D248-102F-4EC7-A64D-7CAA1F8E6E17}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "003_Bitwise_And_Shift_Operators", "Lesson_Bitwise_And_Shift_Operators\003_Bitwise_And_Shift_Operators\003_Bitwise_And_Shift_Operators.csproj", "{C7C3D248-102F-4EC7-A64D-7CAA1F8E6E17}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Lesson_Equality_And_Comparison_Operators", "Lesson_Equality_And_Comparison_Operators", "{258B60FD-7757-4F20-BBB9-B476178B5312}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "001_Equality_And_Comparison_Operators", "Lesson_Equality_And_Comparison_Operators\001_Equality_And_Comparison_Operators\001_Equality_And_Comparison_Operators.csproj", "{65A29E6C-8DBE-441F-B45F-ED5FF1B1298A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "001_Equality_And_Comparison_Operators", "Lesson_Equality_And_Comparison_Operators\001_Equality_And_Comparison_Operators\001_Equality_And_Comparison_Operators.csproj", "{65A29E6C-8DBE-441F-B45F-ED5FF1B1298A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "002_Equality_And_Comparison_Operators", "Lesson_Equality_And_Comparison_Operators\002_Equality_And_Comparison_Operators\002_Equality_And_Comparison_Operators.csproj", "{D9BF74F8-24AA-4D94-A4D6-C6649DF5AA7E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "002_Equality_And_Comparison_Operators", "Lesson_Equality_And_Comparison_Operators\002_Equality_And_Comparison_Operators\002_Equality_And_Comparison_Operators.csproj", "{D9BF74F8-24AA-4D94-A4D6-C6649DF5AA7E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "003_Equality_And_Comparison_Operators", "Lesson_Equality_And_Comparison_Operators\003_Equality_And_Comparison_Operators\003_Equality_And_Comparison_Operators.csproj", "{8EA96C40-E6CB-4490-8AAA-EB5CD9AEA1A0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "003_Equality_And_Comparison_Operators", "Lesson_Equality_And_Comparison_Operators\003_Equality_And_Comparison_Operators\003_Equality_And_Comparison_Operators.csproj", "{8EA96C40-E6CB-4490-8AAA-EB5CD9AEA1A0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "004_Equality_And_Comparison_Operators", "Lesson_Equality_And_Comparison_Operators\004_Equality_And_Comparison_Operators\004_Equality_And_Comparison_Operators.csproj", "{FB070843-356C-49CC-8216-ED02C319F97D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "004_Equality_And_Comparison_Operators", "Lesson_Equality_And_Comparison_Operators\004_Equality_And_Comparison_Operators\004_Equality_And_Comparison_Operators.csproj", "{FB070843-356C-49CC-8216-ED02C319F97D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "005_Equality_And_Comparison_Operators", "Lesson_Equality_And_Comparison_Operators\005_Equality_And_Comparison_Operators\005_Equality_And_Comparison_Operators.csproj", "{E39D5A9D-EAB9-4916-8FE1-D7959A39D766}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "005_Equality_And_Comparison_Operators", "Lesson_Equality_And_Comparison_Operators\005_Equality_And_Comparison_Operators\005_Equality_And_Comparison_Operators.csproj", "{E39D5A9D-EAB9-4916-8FE1-D7959A39D766}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Lesson_Conditional_Operator", "Lesson_Conditional_Operator", "{0D459258-06A2-4034-8B0C-4085B008EA96}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "001_Conditional_Operator", "Lesson_Conditional_Operator\001_Conditional_Operator\001_Conditional_Operator.csproj", "{78C38920-C23E-426E-8015-3CFAEF834AAF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "001_Conditional_Operator", "Lesson_Conditional_Operator\001_Conditional_Operator\001_Conditional_Operator.csproj", "{78C38920-C23E-426E-8015-3CFAEF834AAF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "002_Conditional_Operator", "Lesson_Conditional_Operator\002_Conditional_Operator\002_Conditional_Operator.csproj", "{CE41C528-04E8-4F5A-86CE-CC94D8B9D0CD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "002_Conditional_Operator", "Lesson_Conditional_Operator\002_Conditional_Operator\002_Conditional_Operator.csproj", "{CE41C528-04E8-4F5A-86CE-CC94D8B9D0CD}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Lesson_Null-coalescing_And_Null-Conditional_Operators", "Lesson_Null-coalescing_And_Null-Conditional_Operators", "{53C3342B-AE86-427E-892F-6EF05404C1CC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "001_Null-coalescing_And_Null-Conditional_Operators", "Lesson_Null-coalescing_And_Null-Conditional_Operators\001_Null-coalescing_And_Null-Conditional_Operators\001_Null-coalescing_And_Null-Conditional_Operators.csproj", "{2BB0A260-1063-4794-9BB9-AA3F7B54C05E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "001_Null-coalescing_And_Null-Conditional_Operators", "Lesson_Null-coalescing_And_Null-Conditional_Operators\001_Null-coalescing_And_Null-Conditional_Operators\001_Null-coalescing_And_Null-Conditional_Operators.csproj", "{2BB0A260-1063-4794-9BB9-AA3F7B54C05E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "002_Null-coalescing_And_Null-Conditional_Operators", "Lesson_Null-coalescing_And_Null-Conditional_Operators\002_Null-coalescing_And_Null-Conditional_Operators\002_Null-coalescing_And_Null-Conditional_Operators.csproj", "{0FBB32B8-68AB-4BD4-BB8A-570293DA70F8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "002_Null-coalescing_And_Null-Conditional_Operators", "Lesson_Null-coalescing_And_Null-Conditional_Operators\002_Null-coalescing_And_Null-Conditional_Operators\002_Null-coalescing_And_Null-Conditional_Operators.csproj", "{0FBB32B8-68AB-4BD4-BB8A-570293DA70F8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "003_Null-coalescing_And_Null-Conditional_Operators", "Lesson_Null-coalescing_And_Null-Conditional_Operators\003_Null-coalescing_And_Null-Conditional_Operators\003_Null-coalescing_And_Null-Conditional_Operators.csproj", "{774CF9D7-9AE1-4261-A6A0-C4E04E96F238}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "003_Null-coalescing_And_Null-Conditional_Operators", "Lesson_Null-coalescing_And_Null-Conditional_Operators\003_Null-coalescing_And_Null-Conditional_Operators\003_Null-coalescing_And_Null-Conditional_Operators.csproj", "{774CF9D7-9AE1-4261-A6A0-C4E04E96F238}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "004_Null-coalescing_And_Null-Conditional_Operators", "Lesson_Null-coalescing_And_Null-Conditional_Operators\004_Null-coalescing_And_Null-Conditional_Operators\004_Null-coalescing_And_Null-Conditional_Operators.csproj", "{5D152ED9-A928-48F9-B99D-5FF0976FA2CE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "004_Null-coalescing_And_Null-Conditional_Operators", "Lesson_Null-coalescing_And_Null-Conditional_Operators\004_Null-coalescing_And_Null-Conditional_Operators\004_Null-coalescing_And_Null-Conditional_Operators.csproj", "{5D152ED9-A928-48F9-B99D-5FF0976FA2CE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "005_Null-coalescing_And_Null-Conditional_Operators", "Lesson_Null-coalescing_And_Null-Conditional_Operators\005_Null-coalescing_And_Null-Conditional_Operators\005_Null-coalescing_And_Null-Conditional_Operators.csproj", "{A46B56E3-1C23-4BD1-8661-66728843B4D2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "005_Null-coalescing_And_Null-Conditional_Operators", "Lesson_Null-coalescing_And_Null-Conditional_Operators\005_Null-coalescing_And_Null-Conditional_Operators\005_Null-coalescing_And_Null-Conditional_Operators.csproj", "{A46B56E3-1C23-4BD1-8661-66728843B4D2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "006_Null-coalescing_And_Null-Conditional_Operators", "Lesson_Null-coalescing_And_Null-Conditional_Operators\006_Null-coalescing_And_Null-Conditional_Operators\006_Null-coalescing_And_Null-Conditional_Operators.csproj", "{937820C9-3728-44EE-9949-9D87087D02B7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "006_Null-coalescing_And_Null-Conditional_Operators", "Lesson_Null-coalescing_And_Null-Conditional_Operators\006_Null-coalescing_And_Null-Conditional_Operators\006_Null-coalescing_And_Null-Conditional_Operators.csproj", "{937820C9-3728-44EE-9949-9D87087D02B7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "007_Null-coalescing_And_Null-Conditional_Operators", "Lesson_Null-coalescing_And_Null-Conditional_Operators\007_Null-coalescing_And_Null-Conditional_Operators\007_Null-coalescing_And_Null-Conditional_Operators.csproj", "{4430271D-E254-44A0-8970-60100A5622C3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "007_Null-coalescing_And_Null-Conditional_Operators", "Lesson_Null-coalescing_And_Null-Conditional_Operators\007_Null-coalescing_And_Null-Conditional_Operators\007_Null-coalescing_And_Null-Conditional_Operators.csproj", "{4430271D-E254-44A0-8970-60100A5622C3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "008_Null-coalescing_And_Null-Conditional_Operators", "Lesson_Null-coalescing_And_Null-Conditional_Operators\008_Null-coalescing_And_Null-Conditional_Operators\008_Null-coalescing_And_Null-Conditional_Operators.csproj", "{4CC1A18A-9FF6-4F7E-8FA6-A472DDC409EB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "008_Null-coalescing_And_Null-Conditional_Operators", "Lesson_Null-coalescing_And_Null-Conditional_Operators\008_Null-coalescing_And_Null-Conditional_Operators\008_Null-coalescing_And_Null-Conditional_Operators.csproj", "{4CC1A18A-9FF6-4F7E-8FA6-A472DDC409EB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "009_Null-coalescing_And_Null-Conditional_Operators", "Lesson_Null-coalescing_And_Null-Conditional_Operators\009_Null-coalescing_And_Null-Conditional_Operators\009_Null-coalescing_And_Null-Conditional_Operators.csproj", "{B720F68A-09EE-44A4-9912-612FB275C735}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "009_Null-coalescing_And_Null-Conditional_Operators", "Lesson_Null-coalescing_And_Null-Conditional_Operators\009_Null-coalescing_And_Null-Conditional_Operators\009_Null-coalescing_And_Null-Conditional_Operators.csproj", "{B720F68A-09EE-44A4-9912-612FB275C735}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "012_Working_With_String", "Lesson_Working_With_String_Data\012_Working_With_String\012_Working_With_String.csproj", "{1A0160A9-371B-4697-88C9-DC341625AFFD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "013_Working_With_String", "Lesson_Working_With_String_Data\013_Working_With_String\013_Working_With_String.csproj", "{28C66E32-6212-4FAA-994E-77E6371ADA2A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -717,6 +721,14 @@ Global
 		{B720F68A-09EE-44A4-9912-612FB275C735}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B720F68A-09EE-44A4-9912-612FB275C735}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B720F68A-09EE-44A4-9912-612FB275C735}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A0160A9-371B-4697-88C9-DC341625AFFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A0160A9-371B-4697-88C9-DC341625AFFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A0160A9-371B-4697-88C9-DC341625AFFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A0160A9-371B-4697-88C9-DC341625AFFD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{28C66E32-6212-4FAA-994E-77E6371ADA2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28C66E32-6212-4FAA-994E-77E6371ADA2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28C66E32-6212-4FAA-994E-77E6371ADA2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28C66E32-6212-4FAA-994E-77E6371ADA2A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -835,6 +847,8 @@ Global
 		{4430271D-E254-44A0-8970-60100A5622C3} = {53C3342B-AE86-427E-892F-6EF05404C1CC}
 		{4CC1A18A-9FF6-4F7E-8FA6-A472DDC409EB} = {53C3342B-AE86-427E-892F-6EF05404C1CC}
 		{B720F68A-09EE-44A4-9912-612FB275C735} = {53C3342B-AE86-427E-892F-6EF05404C1CC}
+		{1A0160A9-371B-4697-88C9-DC341625AFFD} = {EBE3CEB1-2DCD-4960-8DDC-1EB3915C2C5D}
+		{28C66E32-6212-4FAA-994E-77E6371ADA2A} = {EBE3CEB1-2DCD-4960-8DDC-1EB3915C2C5D}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {7C730EFF-7960-4F2C-A096-085067AE339F}
