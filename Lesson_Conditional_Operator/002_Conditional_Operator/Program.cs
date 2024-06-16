@@ -16,7 +16,7 @@
                 classify = "negative";
             }
             //Alternative and short syntax
-            classify = input >= 0 ? "nonnegative" : "negative";
+            //classify = input >= 0 ? "nonnegative" : "negative";
             Console.WriteLine(classify);
         }
     }
