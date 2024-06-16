@@ -5,6 +5,14 @@
     // -=	Subtraction Assignment  x -= 5	x = x - 5
     // *=	Multiplication Assignment   x *= 5	x = x* 5
     // /=	Division Assignment x /= 5	x = x / 5
+
+    //%=	Modulo Assignment	x %= 5	x = x % 5
+    //&=	Bitwise AND Assignment x &= 5	x = x & 5
+    //|=	Bitwise OR Assignment x |= 5	x = x | 5
+    //^=	Bitwise XOR Assignment x ^= 5	x = x ^ 5
+    //<<=	Left Shift Assignment x <<= 5	x = x << 5
+    //>>=	Right Shift Assignment x >>= 5	x = x >> 5
+    //=>	Lambda Operator x => x* x    Returns x* x
     internal class Program
     {
         static void Main(string[] args)

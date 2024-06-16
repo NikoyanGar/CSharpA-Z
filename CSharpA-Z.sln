@@ -349,7 +349,19 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "009_Operator_Category_Terna
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "010_Operator_Category_Bitwise_And_Bit_Shift", "Lesson_Operator_Precedence_And_Associativity\010_Operator_Category_Bitwise_And_Bit_Shift\010_Operator_Category_Bitwise_And_Bit_Shift.csproj", "{AA8B12FD-62DA-41A9-A176-4D7DA763A6C0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "011_Operator_Category_Assignment", "Lesson_Operator_Precedence_And_Associativity\011_Operator_Category_Assignment\011_Operator_Category_Assignment.csproj", "{9C1D894A-D047-4335-8240-96AA8755F29D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "011_Operator_Category_Assignment", "Lesson_Operator_Precedence_And_Associativity\011_Operator_Category_Assignment\011_Operator_Category_Assignment.csproj", "{9C1D894A-D047-4335-8240-96AA8755F29D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "012_Operator_Precedence_Combination", "Lesson_Operator_Precedence_And_Associativity\012_Operator_Precedence_Combination\012_Operator_Precedence_Combination.csproj", "{5E33DE33-C7BC-42A3-AF5F-89ADCC6965F0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "013_Operator_Precedence_Combination", "Lesson_Operator_Precedence_And_Associativity\013_Operator_Precedence_Combination\013_Operator_Precedence_Combination.csproj", "{96A1BEDE-3D53-4630-9677-77F450262E0B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "014_Operator_Precedence_Combination", "Lesson_Operator_Precedence_And_Associativity\014_Operator_Precedence_Combination\014_Operator_Precedence_Combination.csproj", "{5A43FEA2-645C-4994-8339-ABB8E49BAC43}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "001_Operator_Associativity", "Lesson_Operator_Precedence_And_Associativity\001_Operator_Associativity\001_Operator_Associativity.csproj", "{DDFA5A2A-54E8-48B8-A5AF-2F0BE7D86505}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "002_Operator_Associativity", "Lesson_Operator_Precedence_And_Associativity\002_Operator_Associativity\002_Operator_Associativity.csproj", "{DBABB2E1-308B-4CAD-A46B-529600F1CEEA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "003_Operator_Associativity", "Lesson_Operator_Precedence_And_Associativity\003_Operator_Associativity\003_Operator_Associativity.csproj", "{D15957A6-284E-471F-9B55-8BCF89BECCE9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -977,6 +989,30 @@ Global
 		{9C1D894A-D047-4335-8240-96AA8755F29D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9C1D894A-D047-4335-8240-96AA8755F29D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9C1D894A-D047-4335-8240-96AA8755F29D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E33DE33-C7BC-42A3-AF5F-89ADCC6965F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E33DE33-C7BC-42A3-AF5F-89ADCC6965F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E33DE33-C7BC-42A3-AF5F-89ADCC6965F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E33DE33-C7BC-42A3-AF5F-89ADCC6965F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{96A1BEDE-3D53-4630-9677-77F450262E0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96A1BEDE-3D53-4630-9677-77F450262E0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96A1BEDE-3D53-4630-9677-77F450262E0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96A1BEDE-3D53-4630-9677-77F450262E0B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A43FEA2-645C-4994-8339-ABB8E49BAC43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A43FEA2-645C-4994-8339-ABB8E49BAC43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A43FEA2-645C-4994-8339-ABB8E49BAC43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A43FEA2-645C-4994-8339-ABB8E49BAC43}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DDFA5A2A-54E8-48B8-A5AF-2F0BE7D86505}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDFA5A2A-54E8-48B8-A5AF-2F0BE7D86505}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDFA5A2A-54E8-48B8-A5AF-2F0BE7D86505}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDFA5A2A-54E8-48B8-A5AF-2F0BE7D86505}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DBABB2E1-308B-4CAD-A46B-529600F1CEEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBABB2E1-308B-4CAD-A46B-529600F1CEEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBABB2E1-308B-4CAD-A46B-529600F1CEEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBABB2E1-308B-4CAD-A46B-529600F1CEEA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D15957A6-284E-471F-9B55-8BCF89BECCE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D15957A6-284E-471F-9B55-8BCF89BECCE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D15957A6-284E-471F-9B55-8BCF89BECCE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D15957A6-284E-471F-9B55-8BCF89BECCE9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -1137,6 +1173,12 @@ Global
 		{7D74C101-4A1C-4477-8FC0-9F090587A450} = {62672F39-ACDF-4B67-90B1-B9EA9518A8F6}
 		{AA8B12FD-62DA-41A9-A176-4D7DA763A6C0} = {62672F39-ACDF-4B67-90B1-B9EA9518A8F6}
 		{9C1D894A-D047-4335-8240-96AA8755F29D} = {62672F39-ACDF-4B67-90B1-B9EA9518A8F6}
+		{5E33DE33-C7BC-42A3-AF5F-89ADCC6965F0} = {62672F39-ACDF-4B67-90B1-B9EA9518A8F6}
+		{96A1BEDE-3D53-4630-9677-77F450262E0B} = {62672F39-ACDF-4B67-90B1-B9EA9518A8F6}
+		{5A43FEA2-645C-4994-8339-ABB8E49BAC43} = {62672F39-ACDF-4B67-90B1-B9EA9518A8F6}
+		{DDFA5A2A-54E8-48B8-A5AF-2F0BE7D86505} = {62672F39-ACDF-4B67-90B1-B9EA9518A8F6}
+		{DBABB2E1-308B-4CAD-A46B-529600F1CEEA} = {62672F39-ACDF-4B67-90B1-B9EA9518A8F6}
+		{D15957A6-284E-471F-9B55-8BCF89BECCE9} = {62672F39-ACDF-4B67-90B1-B9EA9518A8F6}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {7C730EFF-7960-4F2C-A096-085067AE339F}

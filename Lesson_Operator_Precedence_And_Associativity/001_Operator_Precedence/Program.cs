@@ -7,7 +7,11 @@
         static void Main(string[] args)
         {
             int x = 4 + 3 * 5;//The precedence of multiplication (*) operator is higher than the precedence of addition (+) operator
+            int result = (2 + 3) * 4; // Parentheses have the highest precedence and force the addition to be evaluated first.
+            bool logicalResult = true || false && false; // Logical AND (&&) has higher precedence than logical OR (||), so it's evaluated first.
             Console.WriteLine(x);
+            Console.WriteLine(result);
+            Console.WriteLine(logicalResult);
         }
     }
 }
