@@ -1,0 +1,96 @@
+﻿
+.NET Text Encodings – Full Guide and Explanation
+
+====================
+🔍 What is Encoding?
+====================
+Encoding is the process of converting characters (text) into bytes for storage or transmission.
+For example:
+- 'A' in ASCII → 0x41
+- '€' in UTF-8 → E2 82 AC
+
+============================
+🧾 Common Encodings in .NET
+============================
+
+| Encoding Name         | Encoding Object              | Description |
+|-----------------------|------------------------------|-------------|
+| ASCII                 | Encoding.ASCII               | 7-bit, English only. Non-ASCII becomes '?' |
+| UTF-8                 | Encoding.UTF8                | Variable-length (1–4 bytes), supports all Unicode |
+| Unicode (UTF-16 LE)   | Encoding.Unicode             | 2 bytes/char, used internally in .NET |
+| UTF-32                | Encoding.UTF32               | 4 bytes/char, fixed length |
+| BigEndianUnicode      | Encoding.BigEndianUnicode    | UTF-16 in big-endian byte order |
+| Default (Windows)     | Encoding.Default             | Depends on OS; not always Unicode-safe |
+
+==============================
+💻 Encoding Example in C#
+==============================
+using System;
+using System.Text;
+using System.IO;
+
+class Program
+{
+    static void Main()
+    {
+        Console.OutputEncoding = Encoding.UTF8;
+
+        string text = "€汉A";
+
+        byte[] utf8 = Encoding.UTF8.GetBytes(text);
+        byte[] ascii = Encoding.ASCII.GetBytes(text); // Unsupported chars → ?
+
+        Console.WriteLine("UTF-8: " + BitConverter.ToString(utf8));
+        Console.WriteLine("ASCII: " + BitConverter.ToString(ascii));
+
+        File.WriteAllText("utf8.txt", text, Encoding.UTF8);
+        File.WriteAllText("ascii.txt", text, Encoding.ASCII);
+    }
+}
+
+============================
+📋 Encoding Comparison Table
+============================
+
+| Feature             | ASCII       | UTF-8     | UTF-16     | UTF-32     |
+|---------------------|-------------|-----------|------------|------------|
+| Bytes per char      | 1           | 1–4       | 2 (or 4)   | 4          |
+| Unicode support     | ❌ No       | ✅ Yes     | ✅ Yes      | ✅ Yes      |
+| File size           | Small       | Efficient | Larger     | Largest    |
+| Use case            | Legacy      | Web/API   | Win API    | Rare       |
+
+===============================
+🛠️ Console and File Encoding
+===============================
+- Set console to support Unicode:
+  Console.OutputEncoding = Encoding.UTF8;
+
+- Write a file with specific encoding:
+  File.WriteAllText("file.txt", "€汉A", Encoding.UTF8);
+
+============================
+⚠️ Common Problems and Fixes
+============================
+- '?' characters → Use proper Unicode encoding (e.g., UTF-8)
+- Garbled text → Match encoding for read/write
+- Encoding.Default is system-specific → Avoid unless necessary
+
+=====================================
+✅ Best Practice for .NET Developers
+=====================================
+- Always specify encoding explicitly (e.g., UTF-8)
+- Use UTF-8 for most file I/O and console output
+- Avoid Encoding.Default unless you're sure of the system's code page
+- Use BOM detection for unknown files if needed
+
+=============================
+🔍 How to Detect File Encoding
+=============================
+Use StreamReader:
+  new StreamReader("file.txt", detectEncodingFromByteOrderMarks: true);
+
+Or use a library like Ude (Mozilla Charset Detector port)
+
+==================
+🔚 End of Document
+==================

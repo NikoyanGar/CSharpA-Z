@@ -1,0 +1,24 @@
+﻿
+Basic Styles
+Style	Description
+None	Only digits are allowed. No whitespace, signs, or currency symbols.
+Integer	Allows leading/trailing whitespace and a leading sign (+ or -).
+AllowLeadingWhite	Allows whitespace before the number.
+AllowTrailingWhite	Allows whitespace after the number.
+AllowLeadingSign	Allows + or - at the beginning.
+AllowTrailingSign	Allows sign at the end of the number.
+AllowParentheses	Allows numbers in parentheses to denote negatives: (123) → -123.
+
+Advanced Formatting
+Style	Description
+AllowThousands	Allows thousands separator (e.g., "1,000").
+AllowDecimalPoint	Allows a decimal point (useful for parsing floats/doubles).
+AllowCurrencySymbol	Allows currency symbols (e.g., $123).
+AllowHexSpecifier	Parses the number as hexadecimal. Requires a string like "1A" and ignores other style flags.
+
+Composite Styles
+Style	Combination of
+Number	AllowLeadingWhite + AllowTrailingWhite + AllowLeadingSign + AllowTrailingSign + AllowDecimalPoint + AllowThousands
+Float	AllowLeadingWhite + AllowTrailingWhite + AllowLeadingSign + AllowDecimalPoint + AllowExponent
+Currency	AllowLeadingWhite + AllowTrailingWhite + AllowLeadingSign + AllowTrailingSign + AllowParentheses + AllowDecimalPoint + AllowThousands + AllowCurrencySymbol
+Any	All styles except AllowHexSpecifier
