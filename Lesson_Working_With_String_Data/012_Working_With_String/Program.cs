@@ -2,6 +2,7 @@
 using System.Diagnostics;
 using System.Runtime.ConstrainedExecution;
 using System;
+using System.Text;
 
 namespace _012_Working_With_String
 {
@@ -30,7 +31,7 @@ namespace _012_Working_With_String
             Console.WriteLine($"helloWorld: {helloWorld}, helloWorld2: {helloWorld2}");
             Console.WriteLine($"helloWorld == helloWorld2: {helloWorld == helloWorld2}");
             Console.WriteLine($"ReferenceEquals(helloWorld, helloWorld2): {object.ReferenceEquals(helloWorld, helloWorld2)}");
-
+            Console.OutputEncoding = Encoding.UTF8;
             // Checking if strings are interned
             string? internedStringRef = string.IsInterned(helloWorld);
             string? internedStringRef1 = string.IsInterned(helloWorld2);
