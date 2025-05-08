@@ -12,7 +12,7 @@
 
             //1.	Convert the numbers to binary representation:
             //•	8 in binary: 00001000
-            //•	12 in binary: 00001100
+            //•	12 in binary:00001100
             //2.Compare the bits of the two numbers:
             //•	Starting from the leftmost bit, compare each corresponding pair of bits:
             //•	0 XOR 0 = 0
